@@ -1,0 +1,6 @@
+[requires]
+pngpp/0.2.10
+
+[generators]
+CMakeDeps
+CMakeToolchain
